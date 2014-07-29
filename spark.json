@@ -1,7 +1,7 @@
 {
   "name": "PID_v1",
-  "author": "Playing With Fusion",
+  "author": "Brett Beauregard",
   "license": "Open",
   "version": "0.0.1",
-  "description": "Interfaces with MAX31865"
+  "description": "Library for PID control"
 }
