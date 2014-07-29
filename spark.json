@@ -1,7 +1,7 @@
 {
-  "name": "PID_v1-library",
+  "name": "PID_v1",
   "author": "Playing With Fusion",
   "license": "Open",
-  "version": "1",
+  "version": "0.0.1",
   "description": "Interfaces with MAX31865"
 }
